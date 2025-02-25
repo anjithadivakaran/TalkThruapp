@@ -30,9 +30,8 @@ To create an interactive, AI-driven mental health application, TalkThru, that pr
 - Idle: When user texts with other emotions then this avatar is triggered.
 - Sad: When user texts the bot a message with sadness, this emotional avatar is triggered.
 
-<p align = "left"><img align = "left" src = "[image](https://github.com/user-attachments/assets/55fcd427-7dd0-466e-af7d-4489c3145d19)" width = 400 height = 400/></p>
-<p align = "center"><img align = "center" src = "![image](https://github.com/user-attachments/assets/62d04612-990e-4aa9-b860-2950c4438523)
-" width = 400 height = 400/></p>
+<p align = "left"><img align = "left" src = "https://github.com/user-attachments/assets/55fcd427-7dd0-466e-af7d-4489c3145d19" width = 400 height = 400/></p>
+<p align = "center"><img align = "center" src = "https://github.com/user-attachments/assets/62d04612-990e-4aa9-b860-2950c4438523" width = 400 height = 400/></p>
 
 
 
