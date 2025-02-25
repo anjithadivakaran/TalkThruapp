@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/7c9bf00d-f54d-46ca-b06b-d30bf4b381be)# TalkThruapp
+# TalkThruapp
 An AI powered Mental Health Counseling App
+![image](https://github.com/user-attachments/assets/7c9bf00d-f54d-46ca-b06b-d30bf4b381be)
 
 ## Problem Statement and Motivation
-![image](https://github.com/user-attachments/assets/6657d415-e4c1-49fa-89a9-4733a806864d)
 
 ### Motivation
 - Mental health challenges are widespread, yet many individuals face barriers to accessing professional support due to stigma, cost, and availability. 
