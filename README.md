@@ -1,6 +1,7 @@
 # TalkThruapp
 An AI powered Mental Health Counseling App
-![image](https://github.com/user-attachments/assets/7c9bf00d-f54d-46ca-b06b-d30bf4b381be)
+
+<p align = "center"> <img align = "center" src = "https://github.com/user-attachments/assets/7c9bf00d-f54d-46ca-b06b-d30bf4b381be" width = 400 height = 600/></p>
 
 ## Problem Statement and Motivation
 
@@ -36,5 +37,27 @@ To create an interactive, AI-driven mental health application, TalkThru, that pr
 
 <p align = "left"><img align = "left" src = "https://github.com/user-attachments/assets/6f8ec012-56b1-49b8-9fa7-7a56a67e3221" width = 400 height = 400/></p>
 <p align = "center"><img align = "center" src = "https://github.com/user-attachments/assets/e35dc8ee-df3e-4acf-a2a8-c21fc5ec5c0d" width = 400 height = 400/></p>
+
+
+## Interface Design
+### Home 
+<p align = "center"> <img align = "center" src = "https://github.com/user-attachments/assets/a707c94d-4af4-4661-910f-c4d250dd02fa" width = 400 height = 600/></p>
+
+### Journal
+<p align = "center"> <img align = "center" src = "https://github.com/user-attachments/assets/33fba168-e6a7-4706-990d-8595159299cc" width = 400 height = 600/></p>
+
+### Chat
+<p align = "center"> <img align = "center" src = "https://github.com/user-attachments/assets/88a0a3b2-c4f4-4782-bf1b-c1c4a48860a7" width = 400 height = 600/></p>
+
+### Self Care
+<p align = "center"> <img align = "center" src = "https://github.com/user-attachments/assets/d3fde99a-8e30-429c-911a-0480d582a200" width = 400 height = 600/></p>
+
+### Analytics
+<p align = "center"> <img align = "center" src = "https://github.com/user-attachments/assets/8c351a28-5f47-40c9-b0fb-a02d3f7a3c8c" width = 400 height = 600/></p>
+
+
+
+
+
 
 
